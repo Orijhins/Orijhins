@@ -25,4 +25,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Orijhins&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="My Stats"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orijhins&hide=go&count_private=true&langs_count=10&show_icons=true&hide_border=true&theme=github_dark&layout=compact" alt="My Languages"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Orijhins&count_private=true&langs_count=10&show_icons=true&hide_border=true&theme=github_dark&layout=compact" alt="My Languages"/>

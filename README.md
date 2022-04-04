@@ -1,6 +1,6 @@
 ### Hi there, I'm Michaël 👋
 
-- 🔭 I’m currently working on an iOS app with SwiftUI for Magic: The Gathering cards
+- 🔭 I’m currently working on a Retro Gaming Platform
 - 🌱 I’m currently learning C# and Unity
 - ⚡ Fun fact: I love Magic and would love to learn fencing or kendo
 

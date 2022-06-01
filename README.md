@@ -1,7 +1,7 @@
 ### Hi there, I'm Michaël 👋
 
 - 🔭 I’m currently working on a Retro Gaming Platform
-- 🌱 I’m currently learning C# and Unity
+- 🌱 I’m currently learning CockroachDB
 - ⚡ Fun fact: I love Magic and would love to learn fencing or kendo
 
 <br/>

@@ -1,7 +1,6 @@
 ### Hi there, I'm Michaël 👋
 
-- 🔭 I’m currently working on a Retro Gaming Platform
-- 🌱 I’m currently learning CockroachDB
+- 🌱 I’m currently learning WebAssembly
 - ⚡ Fun fact: I love Magic and would love to learn fencing or kendo
 
 <br/>
@@ -25,4 +24,4 @@
 
 <img align="center" src="http://github-readme-stats-orijhins.vercel.app/api?username=Orijhins&count_private=true&show_icons=true&hide_border=true&theme=github_dark" alt="My Stats"/>
 
-<img align="center" src="http://github-readme-stats-orijhins.vercel.app/api/top-langs/?username=Orijhins&hide=objective-c,java,kotlin&langs_count=10&show_icons=true&hide_border=true&theme=github_dark&layout=compact" alt="My Languages"/>
+<img align="center" src="http://github-readme-stats-orijhins.vercel.app/api/top-langs/?username=Orijhins&hide=objective-c,java,kotlin,ruby&langs_count=10&show_icons=true&hide_border=true&theme=github_dark&layout=compact" alt="My Languages"/>
